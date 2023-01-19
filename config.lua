@@ -23,6 +23,7 @@ vim.opt.relativenumber = true
 vim.opt.shell = "/bin/sh"
 vim.opt.smartindent = true
 vim.opt.smartcase = true
+vim.opt.winbar = "horizon"
 
 -- general
 lvim.log.level = "info"
